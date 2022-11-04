@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "738404988745",
+    "project_id": "purple-yam-3a038",
+    "storage_bucket": "purple-yam-3a038.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738404988745:android:a43db930eb21aa79190c98",
+        "android_client_info": {
+          "package_name": "com.example.purple_yum_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738404988745-7jditc5ql45i2q2k9njma5d556e88ugr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnb5lzXUs4B-BS6QL_BkOtVAwqP5j3nbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738404988745-7jditc5ql45i2q2k9njma5d556e88ugr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
